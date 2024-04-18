@@ -41,7 +41,7 @@ if selected_option == "Home":
     st.subheader("Optimasi Harga Pakaian untuk Keuntungan dan Kepuasan Pelanggan")
     st.write("Proyek ini bertujuan untuk memprediksi harga pakaian dengan akurat untuk meningkatkan keuntungan perusahaan dan kepuasan pelanggan. Dengan strategi harga yang tepat, perusahaan dapat menyesuaikan harga dengan pasar, membangun kepercayaan pelanggan, dan mengelola stok dengan lebih efisien untuk memaksimalkan penjualan.")
 
-    st.image("img/logo1.jpg", width=500, output_format="JPEG", use_column_width=True)
+   
     st.subheader("Pengembangan Model Prediktif untuk Penetapan Harga Pakaian")
     st.write("Dalam industri pakaian yang dinamis, penting untuk memahami pasar dan faktor internal perusahaan untuk mengembangkan model prediktif yang akurat dalam memprediksi harga item pakaian. Dengan menganalisis tren pasar, kualitas data, dan strategi bisnis, perusahaan dapat merancang pendekatan yang tepat untuk menyesuaikan strategi penetapan harga dengan efektif.")
 
