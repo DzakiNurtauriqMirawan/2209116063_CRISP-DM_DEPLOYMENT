@@ -38,7 +38,6 @@ selected_option = st.sidebar.radio("Menu", menu_options)
 if selected_option == "Home":
     st.title("Home")
     # Menampilkan gambar
-    st.image("img/logo.jpg", width=500, output_format="JPEG", use_column_width=True)
     st.subheader("Optimasi Harga Pakaian untuk Keuntungan dan Kepuasan Pelanggan")
     st.write("Proyek ini bertujuan untuk memprediksi harga pakaian dengan akurat untuk meningkatkan keuntungan perusahaan dan kepuasan pelanggan. Dengan strategi harga yang tepat, perusahaan dapat menyesuaikan harga dengan pasar, membangun kepercayaan pelanggan, dan mengelola stok dengan lebih efisien untuk memaksimalkan penjualan.")
 
